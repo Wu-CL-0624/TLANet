@@ -121,7 +121,7 @@ Expected outputs include trained weights, training curves, confusion matrix, lea
 
 ## Suggested Data Availability Statement
 
-The raw ECG data analyzed in this study are publicly available from the MIT-BIH Arrhythmia Database on PhysioNet. The source code, preprocessing scripts, train/validation split files, baseline implementations, trained model weights, and experimental result files supporting the findings of this study are available at `[repository URL or DOI]`. The computational environment uses Python 3.8, PyTorch 1.13, and CUDA 11.8, as specified in this repository.
+The raw ECG data analyzed in this study are publicly available from the MIT-BIH Arrhythmia Database on PhysioNet. The source code, preprocessing scripts, train/validation split files, baseline implementations, trained model weights, and experimental result files supporting the findings of this study are available at `https://github.com/Wu-CL-0624/TLANet`. The computational environment uses Python 3.8, PyTorch 1.13, and CUDA 11.8, as specified in this repository.
 
 ## Citation
 
