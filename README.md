@@ -38,6 +38,14 @@ Expected CSV format:
 
 The six-class experiment uses labels `N`, `V`, `/`, `A`, `L`, and `R`. The five-class control experiment excludes class `A`.
 
+## Note
+
+This repository uses Git LFS to store large dataset files.
+Please install Git LFS before cloning the repository:
+
+git lfs install
+git clone https://github.com/Wu-CL-0624/TLANet.git
+
 ## Environment
 
 The experiments were run in the following environment:
