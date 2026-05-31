@@ -1,0 +1,14 @@
+name: tlanet-py38-torch113
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - numpy<2.0
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - tqdm
+  - pip:
+      - torch==1.13.1
