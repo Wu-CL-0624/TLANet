@@ -24,7 +24,6 @@ TLANet integrates Temporal Convolutional Networks (TCN), Long Short-Term Memory 
     └── best_ecg_model_multihead.pth      # trained weights for the five-class task
 ```
 
-If baseline implementations are included in the final public repository, please keep them in a clearly named directory such as `baselines/`, with one script or subfolder for each model: `CNN`, `TCN`, `CNN-LSTM`, `TCN-LSTM`, and `CNN-LSTM-Attention`.
 
 ## Data
 
